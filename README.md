@@ -18,7 +18,7 @@ git switch main
 
 ## Branches
 
-- `main`: the default branch.
+- `main`: the primary project branch.
 - `develop`: the development branch.
 
 ## Development
